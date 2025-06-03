@@ -4,7 +4,7 @@ Perfil profesional de Uma Rovetta
 
 🎓 Estudiante Universitaria  
 💻 Estudiando la carrera de Desarrollo Full Stack  
-📍 Apasionada por la programación, el análisis de datos y las herramientas ofimáticas.
+📍 Apasionada por la programación y seguir aprendiendo .
 
 ---
 
